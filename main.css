@@ -40,16 +40,16 @@
 
   a {
     text-decoration: none;
-    color: black;
-    border-top: 1px solid black;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
+    color: lightgreen;
+    border-top: 1px solid darkgreen;
+    border-left: 1px solid darkgreen;
+    border-right: 1px solid darkgreen;
     border-radius: 10px;
     margin: 0px 5px;
   }
 
   .active {
-   color: gray;
+   color: rgb(32, 248, 194);
   }
 
 .nav_wrapper {
